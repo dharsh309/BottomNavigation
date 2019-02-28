@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigationn</string>
+    <string name="title_home">Shops</string>
+    <string name="title_dashboard">Gifts</string>
+    <string name="title_notifications">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
